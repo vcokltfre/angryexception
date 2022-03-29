@@ -29,10 +29,10 @@ def install() -> None:
         engine.say(  # type: ignore
             choice(
                 [
-                    #"You're really stupid.",
-                    #"What's wrong with you?",
-                    #"You're an idiot.",
-                    #"You need to learn to program.",
+                    "You're really stupid.",
+                    "What's wrong with you?",
+                    "You're an idiot.",
+                    "You need to learn to program.",
                     "You must be the type of person that thinks one plus one is three.",
                 ]
             )
