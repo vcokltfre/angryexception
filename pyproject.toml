@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "angryexception"
-version = "1.0.1"
+version = "1.0.2"
 description = "An exception handler that tells you that you're stupid."
 authors = ["vcokltfre <vcokltfre@gmail.com>"]
-license = "GPLv3"
+license = "GPL-3.0-only"
 readme = "README.md"
 repository = "https://github.com/vcokltfre/angryexception"
 
